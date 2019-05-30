@@ -1,4 +1,5 @@
+n=int(input())
 i=0
-while(i<5):
+while(i<n):
   print("Hello")
-i+=1  
+  i+=1  
